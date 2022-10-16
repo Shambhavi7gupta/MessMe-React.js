@@ -1,10 +1,9 @@
-
 .nav{
-    
   display: flex;
   justify-content: space-between;
   margin: 10px;
 }
+
 .nav-h1{
   display: flex;
 }
@@ -16,12 +15,5 @@
 }
 
 .nav-item > li{
-  
   padding: 10px;
-}
-
-
-.HeroSection{
-  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.cypressgreen.in/blog/wp-content/uploads/2021/03/food-1024x683.jpg);
-  backdrop-filter: blur;
 }
